@@ -12,9 +12,7 @@ What I did to hook this up:
 
 ### End Result:
 
-![IMG_1528](https://github.com/elishacloud/wiki-attachments/assets/25625456/4919d017-9fac-4225-a32e-923ee35b8994)
-
-![IMG_1508](https://github.com/elishacloud/wiki-attachments/assets/25625456/0ee99780-8a2c-40e9-bfa7-26126cafad31)
+![IMG_1529](https://github.com/elishacloud/wiki-attachments/assets/25625456/8656c02d-653f-4892-ae7d-6b88110e6e37)
 
 
 ### Steps In Creation:
@@ -38,4 +36,6 @@ More assembly:
 
 ![IMG_1511](https://github.com/elishacloud/wiki-attachments/assets/25625456/1545cd47-0b26-427c-9ae4-30cc7f6b2c3d)
 
-![IMG_1529](https://github.com/elishacloud/wiki-attachments/assets/25625456/8656c02d-653f-4892-ae7d-6b88110e6e37)
+![IMG_1508](https://github.com/elishacloud/wiki-attachments/assets/25625456/0ee99780-8a2c-40e9-bfa7-26126cafad31)
+
+![IMG_1528](https://github.com/elishacloud/wiki-attachments/assets/25625456/4919d017-9fac-4225-a32e-923ee35b8994)
