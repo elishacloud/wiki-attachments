@@ -26,6 +26,8 @@ Starting assembly:
 ![IMG_1489](https://github.com/elishacloud/wiki-attachments/assets/25625456/b58b4474-8efc-4472-a60d-8ba7bc42fc1c)
 
 More assembly:
+![IMG_1501](https://github.com/elishacloud/wiki-attachments/assets/25625456/50ec65f0-8a65-474b-95f4-4800b6ff98df)
+
 ![IMG_1494](https://github.com/elishacloud/wiki-attachments/assets/25625456/98fe00ba-2f6a-4116-8941-9283d3a7d0de)
 
 ![IMG_1495](https://github.com/elishacloud/wiki-attachments/assets/25625456/22bd1a76-257d-4f95-8b94-3b04fe7b590b)
@@ -33,8 +35,6 @@ More assembly:
 ![IMG_1497](https://github.com/elishacloud/wiki-attachments/assets/25625456/58fee470-74fc-405a-a124-86e204c39113)
 
 ![IMG_1498](https://github.com/elishacloud/wiki-attachments/assets/25625456/82da2afd-aec8-4ff2-b105-8e588333b614)
-
-![IMG_1501](https://github.com/elishacloud/wiki-attachments/assets/25625456/50ec65f0-8a65-474b-95f4-4800b6ff98df)
 
 Final assembly:
 ![IMG_1511](https://github.com/elishacloud/wiki-attachments/assets/25625456/1545cd47-0b26-427c-9ae4-30cc7f6b2c3d)
