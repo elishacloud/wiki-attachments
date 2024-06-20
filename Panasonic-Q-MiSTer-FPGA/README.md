@@ -37,3 +37,5 @@ More assembly:
 ![IMG_1498](https://github.com/elishacloud/wiki-attachments/assets/25625456/82da2afd-aec8-4ff2-b105-8e588333b614)
 
 ![IMG_1511](https://github.com/elishacloud/wiki-attachments/assets/25625456/1545cd47-0b26-427c-9ae4-30cc7f6b2c3d)
+
+![IMG_1529](https://github.com/elishacloud/wiki-attachments/assets/25625456/8656c02d-653f-4892-ae7d-6b88110e6e37)
